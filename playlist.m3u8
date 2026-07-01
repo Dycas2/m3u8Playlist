@@ -1,3 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1,live2.eu-north-1a.cf.dmcdn.net
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(HwFEW20Ry_dPWWX7JVtwYMKEDxpJN8a9GOIAIT70mpGRHLn0jCkAasXqajLs9pygBO1A_nO4OI_JrOUx4svC9MnlNwipTtSgvXusM18NjyBHrATnIY69sc54LuComAyy)/cloud/3/x9ksaba/s/live-720.m3u8
+
+#EXTINF:-1,DSports AR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
